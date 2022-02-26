@@ -1,2 +1,3 @@
-# Exemplo1 modificado
-Exemplo da primeira criação de um repositório
+Ricardo Petri Silva
+
+Professor da disciplina de Gerência de Configurações e Controle de Versão.
