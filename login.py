@@ -1,1 +1,3 @@
-def login(usuario, senha):\n    return usuario == 'admin' and senha == '1234'
+def login(usuario, senha):
+    print("Login efetuado com sucesso!")
+    return usuario == "admin" and senha == "1234"
